@@ -6,6 +6,8 @@
 
 本次实验基于 TensorFlow V1 版本编码实现，参考了[《TensorFlow 实战》](https://book.douban.com/subject/26974266/)书本以及其他相关内容教程和公开代码。具体可见我的个人博客：[NLP 第一次实验 - Ther's World (excelius.xyz)](https://www.excelius.xyz/nlp第一次实验/)（待完善！）
 
+训练完成的词向量保存到本地的`pkl`文件中，为了方便上传，已经压缩打包，如果想直接使用还请解压。
+
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
