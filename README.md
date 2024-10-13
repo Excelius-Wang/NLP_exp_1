@@ -24,6 +24,8 @@
   * [所需相关库](#所需相关库：)
   * [安装步骤](#安装步骤)
 - [bz2 文件转 txt 文件](#bz2文件转txt文件[)
+  - [开发前的配置要求](#开发前的配置要求)
+  - [安装步骤](#安装步骤)
 - [语料库预处理](#语料库预处理)
 - [分词](#分词)
 - [模型训练](#模型训练)
@@ -134,4 +136,3 @@ python word_segment.py
 [issues-url]: https://img.shields.io/github/issues/Excelius-Wang/NLP_exp_1.svg
 [license-shield]: https://img.shields.io/github/license/Excelius-Wang/NLP_exp_1.svg?style=flat-square
 [license-url]: https://github.com/Excelius-Wang/NLP_exp_1/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
