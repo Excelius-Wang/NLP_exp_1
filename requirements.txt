@@ -1,0 +1,8 @@
+gensim==4.3.3
+jieba==0.42.1
+matplotlib==3.9.2
+numpy==2.1.2
+OpenCC==1.1.9
+scikit_learn==1.5.2
+tensorflow==2.17.0
+tensorflow_intel==2.17.0
