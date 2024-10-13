@@ -15,8 +15,6 @@
 [![MIT License][license-shield]][license-url]
 
 
- 本篇 README.md 面向开发者
-
 ## 目录
 
 - [代码运行环境](#代码运行环境)
@@ -134,5 +132,5 @@ python word_segment.py
 [stars-url]: https://github.com/Excelius-Wang/NLP_exp_1/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Excelius-Wang/NLP_exp_1.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/Excelius-Wang/NLP_exp_1.svg
-[license-shield]: https://img.shields.io/github/license/Excelius-Wang/NLP_exp_1.svg?style=flat-square
+[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
 [license-url]: https://github.com/Excelius-Wang/NLP_exp_1/blob/master/LICENSE.txt
